@@ -12,6 +12,8 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#Used Prof's websockets example code : https://github.com/abramhindle/WebSocketsExamples 
+# Used my previous assignment code : https://github.com/jaspreetkaursohal/CMPUT404-assignment-ajax 
 #
 import flask
 from flask import Flask, request, Response, redirect
